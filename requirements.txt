@@ -1,0 +1,7 @@
+Bio
+biopython
+plotly
+py3Dmol
+Requests
+stmol
+streamlit
